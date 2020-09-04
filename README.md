@@ -32,5 +32,5 @@ All code is written in Python 3 and advanced techniques use [Tensorflow](https:/
   
 #### References
 
-- [p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
+- [marload/DeepRL-TensorFlow2](https://github.com/marload/DeepRL-TensorFlow2)
 
